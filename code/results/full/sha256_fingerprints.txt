@@ -1,0 +1,8 @@
+﻿
+Algorithm       Hash                                                                   Path
+---------       ----                                                                   ----
+SHA256          2729AC705DB035EC8683DBCE8B52C0B2F49469A71D025B6F79F4089799B1A3D1       protocol_full.md
+SHA256          94727643FD6494D57FDB07E3EF92B2AD8F5FD4D95EC0CA2DD871AEBEEBC97ED4       experiment_full.py
+SHA256          65F01864C286248D674787A8B2DC23B6E0E67834792206595BD8A0EB36BA690B       data\full\manifest.json
+
+

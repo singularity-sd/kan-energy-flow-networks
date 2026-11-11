@@ -1,0 +1,38 @@
+[
+  {
+    "key": "QG_jets_19.npz",
+    "size": 106802397,
+    "checksum": "md5:6753508e34014cc69714a01fca20ec38",
+    "url": "https://zenodo.org/api/records/3164691/files/QG_jets_19.npz/content"
+  },
+  {
+    "key": "QG_jets_1.npz",
+    "size": 106477587,
+    "checksum": "md5:f6a1081c76a47386bc11abcf0e499552",
+    "url": "https://zenodo.org/api/records/3164691/files/QG_jets_1.npz/content"
+  },
+  {
+    "key": "QG_jets_18.npz",
+    "size": 106552587,
+    "checksum": "md5:d43d611484b55391e891ba31c605f792",
+    "url": "https://zenodo.org/api/records/3164691/files/QG_jets_18.npz/content"
+  },
+  {
+    "key": "QG_jets_2.npz",
+    "size": 106490468,
+    "checksum": "md5:2628367c57ba598f4473c870d1381041",
+    "url": "https://zenodo.org/api/records/3164691/files/QG_jets_2.npz/content"
+  },
+  {
+    "key": "QG_jets.npz",
+    "size": 106689379,
+    "checksum": "md5:f5d052f10a79c6e8b9382637aca0ef52",
+    "url": "https://zenodo.org/api/records/3164691/files/QG_jets.npz/content"
+  },
+  {
+    "key": "QG_jets_herwig_1.npz",
+    "size": 101127134,
+    "checksum": "md5:d6ff8cc5c6192309fba915114fdc8358",
+    "url": "https://zenodo.org/api/records/3066475/files/QG_jets_herwig_1.npz/content"
+  }
+]
